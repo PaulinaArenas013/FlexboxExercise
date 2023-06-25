@@ -25,7 +25,7 @@ En este proyecto me enfoqué en construir un sitio muy básico responsive con fl
 Aprender sobre la importancia de flexbox para la creación de sitios web responsive ya que en flezbox se pueden crear diseños flexibles y receptivos que se adapten a diferentes tamaños de pantalla y dispositivos, simplificando la estructura del código HTML y facilitando el diseño de páginas web.
 
 ## 4. Link a demo 
- Aquí puedes visualizar mi proyecto terminado: 
+ Aquí puedes visualizar mi proyecto terminado: [Flexbox "Hello, Forest!"](https://precious-cendol-08a590.netlify.app/)
 
 
 
